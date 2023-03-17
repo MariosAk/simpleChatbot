@@ -1,7 +1,0 @@
-categories:
-- weather_info
-conversations:
-- - whats the weather in
-  - the weather in {} is {}
-- - tell me the weather in
-  - the weather in {} is {}
